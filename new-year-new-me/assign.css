@@ -1,0 +1,240 @@
+
+  .header{
+    width: 1600px;
+    height: 809px;
+    font-family:work sans;
+
+   
+  }
+
+  .container{
+    position: relative;
+    text-align: right; 
+    
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  
+}
+
+
+   .header-title-area {
+    width: 525px;
+    height: 228px;
+    
+  }
+    
+  .header-title {
+    font-family: work sans;
+    font-style: bold;
+    text-align: right;
+    font-size: 65px;
+    line-height: 116.9%;
+    letter-spacing: 0%;
+    
+  }
+
+  .paragraph-area{
+    width: 494px;
+    height: 78px;
+
+  }
+
+  .header-description {
+    font-family: work sans;
+    font-style:   regular;
+    text-align: right;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0%;
+  }
+  .btn-primary{
+    height:64px ;
+    width: 160px;
+    background-color: #F15B22; 
+    color: #FFFFFF;
+    border: 0;
+    radius: 5px;
+    margin: 0;
+
+  }
+  .my-failure{
+    height: 723px;
+    width: 1072px;
+    max-width: 500px;
+    
+    border:#FFFFFF;
+    display:flex;
+    margin: 20px 80px;
+    
+   
+    
+  }
+
+  
+ .border .failure-image{
+    margin-right: 40%;
+    height:723px ;
+    width:569px ;
+    
+  
+  }
+
+  .border{
+    background-color:white;
+    border: radius 527.93em; 
+  }
+  .text-area{
+    height: 400px;
+    width: 416px;
+    margin: 200px 10px 80px 200px;
+    
+  }
+   
+  .body-header{
+    font-family: work sans;
+    font-style: bold;
+    text-align: left;
+    font-size: 40px;
+    line-height: auto;
+    letter-spacing: 0%;
+  }
+
+  .body-description{
+    font-family: work sans;
+    font-style: regular;
+    text-align: left;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0%;
+    height: 104px;
+    width: 416px;
+  }
+  .plan-header{
+    text-align: center;
+    font-family: work sans;
+    font-style: bold;
+    width: 179px;
+    height: 47px;
+    font-size: 40px;
+    margin:50px 600px 50px 600px;
+
+  }
+  .my-plans{
+    
+  }
+
+  .para-prim{
+    width: 416px;
+    height: 104px;
+    margin-right:300px;
+  }
+
+  .plan-container{
+  display:flex;
+  gap:30px;
+  margin: 35px 300px 35px 300px;
+ }
+ .plan{
+  padding:30px;
+  background:#FFF;
+ }
+  .mindset{
+    height: 300px;
+    width: 1141px;
+    border:0;
+    margin: 20px 600px 35px 300px;
+    position: relative;
+    text-align: left; 
+   
+    
+  }
+
+
+  .mind-container{
+    width:459px ;
+    height:182px ;
+ 
+    
+  }
+  
+  .foot-title{
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    font-family:work sans;
+    font-style:bold;
+    font-size:40px;
+    line-height: auto;
+  letter-spacing: 0%;
+  
+  height: 182px;
+  width:459px;
+
+ 
+ 
+  }
+  .abr .image-container{
+    height:300px ;
+    width:1140px ;
+    padding:left;
+    
+  }
+  .abr{
+   background-image: url('images/gradient2.png'); 
+  }
+.footer{
+  width: 1600px;
+    height: 809px;
+    font-family:work sans;
+  background-color: black;
+}
+.future{
+
+}
+.future-container{
+
+}
+.subs-container{
+float:left;
+}
+.future-container{
+  width: 485px;
+    height:317px;
+}
+
+.last-title{
+color: #FFFFFF;
+font-family: work sans;
+font-size:45px;
+font-style:bold;
+width: 148px;
+height: 53px;
+margin:left;
+}
+.last-description{
+color:#FFFFFF;
+width: 485px;
+height: 78px;
+margin:left;
+}
+.last-right{
+  color: #FFFFFF;
+font-family: work sans;
+font-size:25px;
+font-style:bold;
+width: 325px;
+height: 204px;
+
+
+}
+  .subs-container{
+    width: 300px;
+    height: 204px;
+  }
+
